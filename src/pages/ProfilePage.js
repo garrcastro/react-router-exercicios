@@ -1,6 +1,10 @@
+import { Header } from "../components/Header";
+
+
 function ProfilePage() {
   return (
     <section>
+      <Header></Header>
       <h1>Página de perfil</h1>
     </section>
   );
